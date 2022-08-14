@@ -1,19 +1,19 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Software Engineer" # the name of your site, e.g. ACME Corp.
-lang: es # the languaje of your site, e.g. en-EN
-theme_custom: indigo-white # the name of your theme, e.g. gree-white, gray-white, indigo-white, indigo-white-pacifico, etc.
-theme_name_background: false # the name of your background image (keep false value if you don't want background image), e.g. bg
-theme_extension_background: png # the extension name of your background file, e.g. png
-author: Rolly # the name of author, show in the home page "Hello, I'm *author*" and seo.
-description: &description Software Engineer, Traveller, Etc. # description for seo.
+title: "Приглашение на день рождения!"
+lang: ru # the languaje of your site, e.g. en-EN
+theme_custom: yellow-black-pacifico # the name of your theme, e.g. gree-white, gray-white, indigo-white, indigo-white-pacifico, etc.
+theme_extension_background: jpg # the extension name of your background file, e.g. png
+theme_name_background: birthday
+# author: Rolly # the name of author, show in the home page "Hello, I'm *author*" and seo.
+description: Birthday party invitation
 tagline: *description
 twitter:
   username: pwnakil # your user of twitter account.
   card: summary
-title_intro: # overwrite "Hello, I'm *author*", keep empty for don't overwrite, e.g Rolly Sanchez!.
-skill_separator: "|" # the separator symbol to your skill at home page.
-title_plataforms: Connect with me on # keep empty for don't show title on plataforms icon.
+title_intro: Приглашение на день рождения!
+skill_separator: "" # the separator symbol to your skill at home page.
+# title_plataforms: Connect with me on # keep empty for don't show title on plataforms icon.
 forkme: false # true or false to show or hide forkme button.
 forkme_link: https://github.com/rollys/jekyll-dev-landing-page # link of repository fork.
 
